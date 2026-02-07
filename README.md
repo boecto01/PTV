@@ -3,7 +3,7 @@
 ## 📺️TV station list
 https://zilong7728.github.io/Collect-IPTV/
 ## ⏱️Last Run Time
-<!-- Last Run Time --> 2026-02-07 13:04:27 CST
+<!-- Last Run Time --> 2026-02-07 16:26:43 CST
 ## 🔗Generated File Link
 <!-- Generated File Link --> [View Generated File](https://raw.githubusercontent.com/boecto01/PTV/refs/heads/main/best_sorted.m3u)
 
