@@ -3,7 +3,7 @@
 ## 📺️TV station list
 https://ghfast.top/raw.githubusercontent.com/boecto01/PTV/refs/heads/main/best_sorted.m3u
 ## ⏱️Last Run Time
-<!-- Last Run Time --> 2026-07-26 10:21:44 CST
+<!-- Last Run Time --> 2026-07-26 14:32:33 CST
 ## 🔗Generated File Link
 <!-- Generated File Link --> [View Generated File](https://raw.githubusercontent.com/boecto01/PTV/refs/heads/main/best_sorted.m3u)
 
